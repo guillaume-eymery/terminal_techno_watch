@@ -1,0 +1,1250 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-09T15:29:37Z",
+  "agent": "codex-port-tech-watch",
+  "period": {
+    "from": "2026-09-09",
+    "to": "2026-11-09"
+  },
+  "weekly_digest": {
+    "headline": "Electrification scales up while automation raises resilience requirements",
+    "editorial": "This first baseline covers two rolling months, with no supplied thread history. The 28 selected developments show electric equipment moving into larger fleets, alongside investment in shore power and electrical infrastructure. Automation increasingly depends on software integration, while the Tanjung Pelepas cyber incident highlights recovery requirements. This is a curated selection: some priority websites restricted access, so indexed article text was cross-checked with accessible publications where available. File saving failed; the batch is provided inline, and checks cover the documented field constraints rather than the unavailable project schema.",
+    "key_figure": {
+      "value": "+21%",
+      "caption": "RTG moves per hour reported at YILPORT Gebze within three months of optimisation deployment",
+      "article_id": "2026-09-17-gebze-rtg-optimisation"
+    },
+    "trends": [
+      "Fleet electrification and port power infrastructure",
+      "Automation and software integration",
+      "Operational resilience and cybersecurity",
+      "Digital coordination and private connectivity"
+    ],
+    "must_read": [
+      "2026-09-11-tanjung-pelepas-cyber-incident",
+      "2026-09-17-gebze-rtg-optimisation",
+      "2026-10-08-tanjung-pelepas-electric-tractors"
+    ]
+  },
+  "articles": [
+    {
+      "id": "2026-09-11-tanjung-pelepas-cyber-incident",
+      "title": "Cyber incident temporarily stops container operations at Tanjung Pelepas",
+      "published_date": "2026-09-11",
+      "source": "Lloyd's List",
+      "link": "https://www.lloydslist.com/LL1158420/Cyber-attack-disrupts-operations-at-Malaysia%E2%80%99s-Port-of-Tanjung-Pelepas",
+      "secondary_sources": [
+        "https://mykn.kuehne-nagel.com/news/article/cyber-attack-disrupts-operations-at-malaysias"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "Port of Tanjung Pelepas",
+        "port": "Tanjung Pelepas",
+        "city": "Iskandar Puteri",
+        "country": "Malaysia",
+        "country_code": "MY",
+        "lat": 1.365,
+        "lon": 103.548,
+        "precision": "port"
+      },
+      "summary": "PTP isolated affected operating systems after detecting a cyber incident on 9 September, temporarily suspending container operations. A controlled restart began on 10 September, with manual gate processing used during recovery. The disruption shows the operational consequences of terminal IT outages.",
+      "key_points": [
+        "Incident detected on 9 September at 23:34 local time.",
+        "Phased restart and manual export gate processing began on 10 September."
+      ],
+      "terminal_impact": "Review isolation procedures, restoration priorities and tested manual gate fallback arrangements.",
+      "category": "cybersecurity",
+      "technologies": [
+        "terminal operating systems",
+        "incident recovery",
+        "manual gate fallback"
+      ],
+      "stakeholders": [
+        "Port of Tanjung Pelepas",
+        "Maersk"
+      ],
+      "status": "incident",
+      "criticality": "critical",
+      "score": 94,
+      "criticality_rationale": "A cyber incident interrupted container handling at a major transhipment hub.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.85
+    },
+    {
+      "id": "2026-10-20-busan-automation-expansion",
+      "title": "Dongwon outlines KRW200 billion automation expansion at Busan New Port",
+      "published_date": "2026-10-20",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/automation-and-optimisation/dongwon-plans-busan-terminal-automation-expansion/",
+      "secondary_sources": [
+        "https://ombudsman.kotra.or.kr/bsn-en/bbs/i-1464/detail.do?ntt_sn=491480"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "Dongwon Global Terminal Busan",
+        "port": "Busan New Port",
+        "city": "Changwon",
+        "country": "South Korea",
+        "country_code": "KR",
+        "lat": 35.077,
+        "lon": 128.813,
+        "precision": "port"
+      },
+      "summary": "Dongwon Global Terminal Busan plans to invest about KRW200 billion by 2028 in AGVs, cargo-handling equipment and operating systems. The plan forms part of an investment memorandum for Busan New Port's western terminal area. It expands an existing automated terminal; implementation remains prospective.",
+      "key_points": [
+        "Port-related investment: KRW200 billion, approximately US$150 million as reported.",
+        "A separate KRW100 billion manufacturing investment is outside terminal scope.",
+        "The agreement was announced on 20 October."
+      ],
+      "terminal_impact": "Monitor equipment contracts and commissioning milestones before treating the announced expansion as delivered.",
+      "category": "automation",
+      "technologies": [
+        "AGV",
+        "automated cargo handling",
+        "terminal operating systems"
+      ],
+      "stakeholders": [
+        "Dongwon Global Terminal Busan",
+        "Busan-Jinhae Free Economic Zone Authority"
+      ],
+      "status": "announcement",
+      "criticality": "critical",
+      "score": 74,
+      "criticality_rationale": "The planned terminal technology investment exceeds €100 million equivalent, although it remains an MoU-stage commitment.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "2026-10-08-tanjung-pelepas-electric-tractors",
+      "title": "Tanjung Pelepas completes deployment of 52 electric terminal tractors",
+      "published_date": "2026-10-08",
+      "source": "WorldCargo News",
+      "link": "https://www.worldcargonews.com/news/2026/10/tanjung-pelepas-completes-rollout-of-52-electric-terminal-tractors/",
+      "secondary_sources": [
+        "https://www.ptp.com.my/media-hub/news/tanjung-pelepas-completes-rollout"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "Port of Tanjung Pelepas",
+        "port": "Tanjung Pelepas",
+        "city": "Iskandar Puteri",
+        "country": "Malaysia",
+        "country_code": "MY",
+        "lat": 1.365,
+        "lon": 103.548,
+        "precision": "port"
+      },
+      "summary": "PTP has completed deployment of 52 Terberg electric terminal tractors after an initial 21 entered service in August. The operator reports that earlier proof-of-concept work found 57% lower operating costs than conventional tractors. The delivery advances fleet electrification beyond an initial trial.",
+      "key_points": [
+        "The remaining 31 units have been delivered.",
+        "Terberg Tractors Malaysia provides 24 months of maintenance.",
+        "Reported trial emissions were about 4,000 versus 7,600 kg CO2e per unit per month."
+      ],
+      "terminal_impact": "Validate reported savings against local duty cycles, charging costs and fleet availability.",
+      "category": "electrification",
+      "technologies": [
+        "electric terminal tractor",
+        "fleet electrification"
+      ],
+      "stakeholders": [
+        "Port of Tanjung Pelepas",
+        "Terberg Tractors Malaysia",
+        "MMC",
+        "APM Terminals"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 69,
+      "criticality_rationale": "A complete 52-unit deployment provides a substantial fleet-scale benchmark.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-09-17-gebze-rtg-optimisation",
+      "title": "YILPORT reports 21% higher yard productivity after RTG optimisation at Gebze",
+      "published_date": "2026-09-17",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/terminal-operations/yilport-gebze-boosts-rtg-productivity/",
+      "secondary_sources": [
+        "https://www.globenewswire.com/news-release/2026/09/16/3363278/0/en/yilport-gebze-terminal-increases-yard-performance-by-21-with-kaleris-rtg-optimization.html"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "YILPORT Gebze",
+        "port": "Gebze",
+        "city": "Gebze",
+        "country": "Türkiye",
+        "country_code": "TR",
+        "lat": 40.772,
+        "lon": 29.535,
+        "precision": "port"
+      },
+      "summary": "YILPORT reports a 21% increase in moves per hour within three months of deploying Kaleris RTG Optimization at Gebze. The software assigns work across 31 RTGs according to vessel, truck and yard demand. Further deployments are planned in Portugal and Sweden.",
+      "key_points": [
+        "Reported improvement concerns RTG moves per hour, not total terminal throughput.",
+        "Planned extensions: Liscont, Leixões and Gävle."
+      ],
+      "terminal_impact": "Benchmark dispatch optimisation against adding cranes, using comparable operating conditions.",
+      "category": "digital_ai",
+      "technologies": [
+        "RTG optimisation",
+        "real-time dispatch",
+        "N4 integration"
+      ],
+      "stakeholders": [
+        "YILPORT",
+        "Kaleris"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 68,
+      "criticality_rationale": "An operational deployment has quantified productivity results and a stated expansion plan.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-12-santos-electric-cranes",
+      "title": "DP World receives two quay cranes and six electric RTGs at Santos",
+      "published_date": "2026-10-12",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/green-technology/dp-world-adds-electric-cranes-as-santos-expansion-advances/",
+      "secondary_sources": [
+        "https://www.dpworld.com/en/news/usa/new-electric-cranes-santos-expansion"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "DP World Santos",
+        "port": "Santos",
+        "city": "Santos",
+        "country": "Brazil",
+        "country_code": "BR",
+        "lat": -23.953,
+        "lon": -46.306,
+        "precision": "port"
+      },
+      "summary": "DP World has received two ship-to-shore cranes and six fully electric RTGs at Santos. They form part of a BRL1.6 billion expansion targeting 1.7 million TEU annual capacity by end-2026. The new quay cranes extend outreach to 72 metres, supporting larger vessels.",
+      "key_points": [
+        "The expansion budget covers the wider project, not only the eight cranes.",
+        "New quay cranes stand 56 metres high and have seven metres more outreach."
+      ],
+      "terminal_impact": "Coordinate quay-crane gains with electric-yard capacity and commissioning dependencies.",
+      "category": "electrification",
+      "technologies": [
+        "electric RTG",
+        "ship-to-shore crane"
+      ],
+      "stakeholders": [
+        "DP World"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 68,
+      "criticality_rationale": "A substantial equipment delivery combines electrification with a terminal capacity upgrade.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-09-21-portsmouth-multi-berth-shore-power",
+      "title": "Portsmouth reports its multi-berth shore power system in service",
+      "published_date": "2026-09-21",
+      "source": "ABB",
+      "link": "https://www.abb.com/global/en/news/138861/abb-brings-uks-first-high-voltage-multi-berth-shore-power-system-into-service-in-portsmouth-international-port",
+      "source_language": "en",
+      "location": {
+        "terminal": "Portsmouth International Port",
+        "port": "Portsmouth",
+        "city": "Portsmouth",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "lat": 50.812,
+        "lon": -1.089,
+        "precision": "port"
+      },
+      "summary": "ABB reports that Portsmouth's high-voltage, multi-berth shore power system is operational following vessel testing. It can connect up to three ships simultaneously across ferry and cruise berths. Multiple voltages and frequencies address the needs of different visiting vessels.",
+      "key_points": [
+        "Supported combinations include 6.6 kV and 11 kV at 50 Hz or 60 Hz.",
+        "The port estimates around 20,000 tonnes of CO2e avoided annually from 2027."
+      ],
+      "terminal_impact": "Use the installation as a benchmark for mixed-vessel compatibility and constrained berth layouts.",
+      "category": "electrification",
+      "technologies": [
+        "shore power",
+        "frequency conversion",
+        "cable management"
+      ],
+      "stakeholders": [
+        "Portsmouth International Port",
+        "ABB",
+        "Brittany Ferries"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 68,
+      "criticality_rationale": "An operational multi-berth installation provides a concrete integration benchmark.",
+      "previous_link": "https://new.abb.com/news/detail/112975/abb-to-supply-shore-connection-solution-to-portsmouth-international-port",
+      "thread_id": null,
+      "chaining_rationale": "The verified February 2024 supply contract concerned the same three-berth Sea Change installation.",
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-14-wilhelmshaven-automated-stacking-cranes",
+      "title": "EUROGATE orders four automated stacking cranes for Wilhelmshaven",
+      "published_date": "2026-10-14",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/automation-and-optimisation/konecranes-wins-eurogate-order-for-four-automated-cranes/",
+      "secondary_sources": [
+        "https://investors.konecranes.com/press/eurogate-orders-four-automated-stacking-cranes-konecranes-its-terminal-wilhelmshaven-germany?trk=article-ssr-frontend-pulse_little-text-block"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "EUROGATE Container Terminal Wilhelmshaven",
+        "port": "Wilhelmshaven",
+        "city": "Wilhelmshaven",
+        "country": "Germany",
+        "country_code": "DE",
+        "lat": 53.594,
+        "lon": 8.149,
+        "precision": "port"
+      },
+      "summary": "EUROGATE has ordered four Konecranes automated stacking cranes for Wilhelmshaven, with handover scheduled for Q2 2028. The cranes will integrate with existing equipment through a supplier-agnostic equipment control architecture. An option covers four further cranes for Hamburg.",
+      "key_points": [
+        "Order booked in Q3 2026.",
+        "Hamburg's four additional ASCs are an option, not a firm order."
+      ],
+      "terminal_impact": "Review equipment-control interfaces and multi-vendor acceptance criteria in automation procurement.",
+      "category": "automation",
+      "technologies": [
+        "automated stacking crane",
+        "equipment control system",
+        "multi-vendor integration"
+      ],
+      "stakeholders": [
+        "EUROGATE",
+        "Konecranes"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 67,
+      "criticality_rationale": "A firm ASC order defines an operational integration path for a major automation programme.",
+      "previous_link": null,
+      "thread_id": "thread-2026-10-14-wilhelmshaven-automation",
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-16-wilhelmshaven-automation-financing",
+      "title": "EUROGATE secures an €82 million loan for its Wilhelmshaven automation pilot",
+      "published_date": "2026-10-16",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/automation-and-optimisation/eurogate-secures-e82m-for-terminal-automation/",
+      "secondary_sources": [
+        "https://www.kfw-ipex-bank.de/Press/News/Pressemitteilungsdetails_909760.html"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "EUROGATE Container Terminal Wilhelmshaven",
+        "port": "Wilhelmshaven",
+        "city": "Wilhelmshaven",
+        "country": "Germany",
+        "country_code": "DE",
+        "lat": 53.594,
+        "lon": 8.149,
+        "precision": "port"
+      },
+      "summary": "KfW IPEX-Bank is lending EUROGATE €82 million for a Wilhelmshaven automation and digitalisation pilot. Autonomous trucks will connect quay operations with automated stacking cranes while EUROGATE develops its terminal software. Pilot findings will inform potential rollout to other German terminals.",
+      "key_points": [
+        "The financing is a loan for a pilot, not confirmation of group-wide deployment.",
+        "Hamburg is identified as a potential next rollout site."
+      ],
+      "terminal_impact": "Track pilot acceptance results, software maturity and the subsequent rollout decision.",
+      "category": "automation",
+      "technologies": [
+        "autonomous terminal truck",
+        "automated stacking crane",
+        "terminal software"
+      ],
+      "stakeholders": [
+        "EUROGATE",
+        "KfW IPEX-Bank"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 66,
+      "criticality_rationale": "Committed financing supports a concrete automation pilot with potential multi-site relevance.",
+      "previous_link": "https://www.porttechnology.org/news/automation-and-optimisation/konecranes-wins-eurogate-order-for-four-automated-cranes/",
+      "thread_id": "thread-2026-10-14-wilhelmshaven-automation",
+      "chaining_rationale": "The financing concerns the same Wilhelmshaven automation programme as the ASC order reported two days earlier.",
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-01-london-gateway-tandem-quay-cranes",
+      "title": "London Gateway receives tandem-lift cranes for its new all-electric berth",
+      "published_date": "2026-10-01",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/container-cargo-handling/dp-world-expands-uk-port-capacity/",
+      "secondary_sources": [
+        "https://www.dpworld.com/en/news/four-of-europes-largest-quay-cranes-arrive-at-dp-worlds-uk-ports"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "DP World London Gateway",
+        "port": "London Gateway",
+        "city": "Stanford-le-Hope",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "lat": 51.504,
+        "lon": 0.506,
+        "precision": "port"
+      },
+      "summary": "Two new quay cranes arrived at London Gateway on 25 September for all-electric Berth 5, due to operate in 2027. They can perform tandem lifts of two 40-foot containers and serve 24,000 TEU vessels. The same announcement covers two further cranes destined for Southampton.",
+      "key_points": [
+        "London Gateway cranes weigh over 2,000 tonnes each and stand nearly 150 metres high.",
+        "Southampton's four-crane 2026 programme represents £60 million."
+      ],
+      "terminal_impact": "Check tandem-lift benefits against yard transport capacity and berth commissioning plans.",
+      "category": "equipment",
+      "technologies": [
+        "tandem lifting",
+        "electric quay crane"
+      ],
+      "stakeholders": [
+        "DP World",
+        "Port of London Authority"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 65,
+      "criticality_rationale": "Delivered high-capacity cranes support a new electric berth and larger vessels.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-09-17-cartagena-remote-electric-rtgs",
+      "title": "Contecar receives the first five of 25 electric, remotely operated RTGs",
+      "published_date": "2026-09-17",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/automation-and-optimisation/cartagena-terminal-receives-first-five-konecranes-electric-rtgs/",
+      "secondary_sources": [
+        "https://puertocartagena.com/es/sala-de-prensa/noticias/gpc-recibe-5-gruas-rtg-de-ultima-generacion"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "Contecar",
+        "port": "Cartagena",
+        "city": "Cartagena",
+        "country": "Colombia",
+        "country_code": "CO",
+        "lat": 10.383,
+        "lon": -75.516,
+        "precision": "port"
+      },
+      "summary": "Contecar received five Konecranes RTGs on 10 September, the first delivery in a 25-crane programme. The electric cranes are designed for remote operation from a control centre. Progressive introduction will combine yard electrification with changes to operator training and supervision.",
+      "key_points": [
+        "First delivery: five of 25 cranes.",
+        "Stated handling capability: up to 30 containers per hour per crane."
+      ],
+      "terminal_impact": "Assess remote-operation staffing, camera coverage and training alongside electrical infrastructure.",
+      "category": "electrification",
+      "technologies": [
+        "electric RTG",
+        "remote crane operation",
+        "control centre"
+      ],
+      "stakeholders": [
+        "Grupo Puerto de Cartagena",
+        "Konecranes"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 65,
+      "criticality_rationale": "A substantial crane programme combines electric propulsion and remote operation.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "2026-10-29-norfolk-electric-straddle-carriers",
+      "title": "Norfolk International Terminals orders 10 electric straddle carriers",
+      "published_date": "2026-10-29",
+      "source": "Kalmar",
+      "link": "https://www.kalmar.nl/news--insights/press_releases/2026/kalmar-secures-a-significant-order/",
+      "source_language": "en",
+      "location": {
+        "terminal": "Norfolk International Terminals",
+        "port": "Virginia",
+        "city": "Norfolk",
+        "country": "United States",
+        "country_code": "US",
+        "lat": 36.914,
+        "lon": -76.329,
+        "precision": "port"
+      },
+      "summary": "The Port of Virginia has ordered 10 Kalmar electric straddle carriers for Norfolk International Terminals, with delivery planned in Q3 2027. Collision warning is included. Kalmar states that the batteries can support up to 600 minutes of operation, subject to application conditions.",
+      "key_points": [
+        "Order booked in Q3 2026; delivery scheduled for Q3 2027.",
+        "Collision warnings use visual and audible alerts."
+      ],
+      "terminal_impact": "Validate battery endurance against real duty cycles and integrate charging into horizontal transport planning.",
+      "category": "electrification",
+      "technologies": [
+        "electric straddle carrier",
+        "lithium-ion battery",
+        "collision warning"
+      ],
+      "stakeholders": [
+        "The Port of Virginia",
+        "Kalmar"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 64,
+      "criticality_rationale": "A firm ten-unit order extends electrification into straddle-carrier operations at a major terminal.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-09-17-tilbury-hydrogen-reachstacker",
+      "title": "Tilbury starts a live trial of a hydrogen fuel-cell reachstacker",
+      "published_date": "2026-09-17",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/green-technology/port-of-tilbury-deploys-uks-first-hydrogen-reachstacker/",
+      "secondary_sources": [
+        "https://forthports.co.uk/latest-news/hyster-delivers-united-kingdoms-first-hydrogen-fuel-cell-powered-reachstacker-to-the-port-of-tilbury/"
+      ],
+      "source_language": "en",
+      "location": {
+        "port": "Tilbury",
+        "city": "Tilbury",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "lat": 51.452,
+        "lon": 0.347,
+        "precision": "port"
+      },
+      "summary": "Tilbury has introduced a Hyster hydrogen fuel-cell reachstacker into live container handling as a pre-production trial. A 60 kW Nuvera fuel cell supports a 130 kWh battery. The project tests hydrogen equipment and on-site fuel infrastructure under demanding terminal duty cycles.",
+      "key_points": [
+        "Onboard hydrogen storage: 32 kg; refuelling stated at under 30 minutes.",
+        "A full 12-hour shift is an expected capability, not a reported trial result.",
+        "Partners include Briggs Equipment UK and GeoPura."
+      ],
+      "terminal_impact": "Compare actual uptime, fuel supply costs and maintenance with battery-electric alternatives.",
+      "category": "alternative_fuels",
+      "technologies": [
+        "hydrogen fuel cell",
+        "reachstacker",
+        "on-site hydrogen supply"
+      ],
+      "stakeholders": [
+        "Port of Tilbury",
+        "Hyster",
+        "Nuvera",
+        "Briggs Equipment UK",
+        "GeoPura"
+      ],
+      "status": "pilot",
+      "criticality": "major",
+      "score": 64,
+      "criticality_rationale": "A hydrogen container handler is being tested in live port operations with dedicated fuel support.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-06-dammam-multipurpose-tos",
+      "title": "Saudi Global Ports launches a TOS for Dammam multipurpose operations",
+      "published_date": "2026-10-06",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/smart-technologies-and-digitalisation/sgp-launches-tos-at-king-abdulaziz-port/",
+      "secondary_sources": [
+        "https://www.saudiglobalports.com.sa/PDFS/MPT%20TOS%20Press%20Release%20-%20English.pdf"
+      ],
+      "source_language": "en",
+      "location": {
+        "port": "King Abdulaziz Port",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "country_code": "SA",
+        "lat": 26.501,
+        "lon": 50.192,
+        "precision": "port"
+      },
+      "summary": "Saudi Global Ports has launched a terminal operating system for multipurpose operations at King Abdulaziz Port in Dammam. It supports cargo planning, equipment allocation and earlier identification of delays. Progressive deployment across other Eastern Province multipurpose terminals is planned.",
+      "key_points": [
+        "Dammam is the initial deployment site.",
+        "The programme aims to reduce manual processes and improve operational coordination."
+      ],
+      "terminal_impact": "Track multipurpose cargo coverage and integration requirements before extending a TOS across sites.",
+      "category": "digital_ai",
+      "technologies": [
+        "multipurpose TOS",
+        "equipment allocation",
+        "cargo planning"
+      ],
+      "stakeholders": [
+        "Saudi Global Ports",
+        "Mawani"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 62,
+      "criticality_rationale": "A TOS is live at a named multipurpose terminal with a stated multi-site rollout plan.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-11-04-aarhus-containership-shore-power",
+      "title": "Aarhus tests containership shore power ahead of January 2027 operations",
+      "published_date": "2026-11-04",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/green-technology/port-of-aarhus-tests-new-containership-shore-power-facility/",
+      "secondary_sources": [
+        "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships"
+      ],
+      "source_language": "en",
+      "location": {
+        "port": "Aarhus",
+        "city": "Aarhus",
+        "country": "Denmark",
+        "country_code": "DK",
+        "lat": 56.147,
+        "lon": 10.236,
+        "precision": "port"
+      },
+      "summary": "Aarhus has tested its new containership shore power facility using Eimskip's Dettifoss. The ship received about 6.5 MWh during nearly 10 hours alongside. Further tests precede planned daily operation in January 2027, with eventual capacity to connect four containerships simultaneously.",
+      "key_points": [
+        "The reported test is complete; routine operation is still planned.",
+        "The project has EU Connecting Europe Facility support."
+      ],
+      "terminal_impact": "Track vessel compatibility, connection time and actual utilisation during the transition from tests to service.",
+      "category": "electrification",
+      "technologies": [
+        "containership shore power",
+        "berth electrification"
+      ],
+      "stakeholders": [
+        "Port of Aarhus",
+        "Eimskip"
+      ],
+      "status": "pilot",
+      "criticality": "major",
+      "score": 61,
+      "criticality_rationale": "A successful live vessel test precedes a defined operational launch.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.8
+    },
+    {
+      "id": "2026-11-02-bergen-portchain-acquisition",
+      "title": "StormGeo acquires Portchain to connect berth planning with voyage optimisation",
+      "published_date": "2026-11-02",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/terminal-operations/portchain-acquisition-strengthens-stormgeos-offering/",
+      "source_language": "en",
+      "location": {
+        "city": "Bergen",
+        "country": "Norway",
+        "country_code": "NO",
+        "lat": 60.392,
+        "lon": 5.323,
+        "precision": "global"
+      },
+      "summary": "StormGeo completed its acquisition of Portchain on 30 October, aiming to connect voyage optimisation with berth and terminal planning. Portchain initially remains independent, with integration planned later. This global software development is mapped to StormGeo's headquarters city, Bergen.",
+      "key_points": [
+        "Portchain's reported network connects shipping lines with over 200 terminals.",
+        "Connect supports schedule alignment; Quay supports berth, crane and workforce planning."
+      ],
+      "terminal_impact": "Assess shared arrival and berth data requirements for just-in-time vessel calls.",
+      "category": "digital_ai",
+      "technologies": [
+        "berth alignment",
+        "just-in-time arrival",
+        "voyage optimisation"
+      ],
+      "stakeholders": [
+        "StormGeo",
+        "Portchain",
+        "Alfa Laval"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 60,
+      "criticality_rationale": "A completed vendor acquisition connects widely deployed terminal planning with voyage optimisation.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "2026-09-28-gdansk-electric-rail-cranes",
+      "title": "Baltic Hub receives two electric RMGs with OCR and anti-collision systems",
+      "published_date": "2026-09-28",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/container-cargo-handling/baltic-hub-expands-rail-handling-capacity/",
+      "source_language": "en",
+      "location": {
+        "terminal": "Baltic Hub",
+        "port": "Gdańsk",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "country_code": "PL",
+        "lat": 54.399,
+        "lon": 18.716,
+        "precision": "port"
+      },
+      "summary": "Baltic Hub has received two electric rail-mounted gantry cranes for its rail yard. The machines include OCR, anti-collision systems and operator cameras. Once operational, the expanded equipment fleet is expected to support rail siding capacity of 1.2 million TEU annually.",
+      "key_points": [
+        "The additions bring rail-yard handling equipment to six cranes.",
+        "Each new crane has OCR and 11 cameras."
+      ],
+      "terminal_impact": "Check whether rail-yard crane capacity and identification systems match planned train volumes.",
+      "category": "equipment",
+      "technologies": [
+        "electric RMG",
+        "OCR",
+        "anti-collision system"
+      ],
+      "stakeholders": [
+        "Baltic Hub",
+        "PSA"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 59,
+      "criticality_rationale": "Delivered cranes combine rail capacity expansion with identification and safety technology.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-11-05-manila-hybrid-rtgs",
+      "title": "NorthPort receives four hybrid RTGs for Manila domestic cargo operations",
+      "published_date": "2026-11-05",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/container-cargo-handling/northport-adds-four-hybrid-cranes/",
+      "source_language": "en",
+      "location": {
+        "terminal": "NorthPort",
+        "port": "Manila",
+        "city": "Manila",
+        "country": "Philippines",
+        "country_code": "PH",
+        "lat": 14.612,
+        "lon": 120.959,
+        "precision": "port"
+      },
+      "summary": "NorthPort has received four Mitsui E&S hybrid RTGs at Manila. Large battery systems work with smaller diesel engines to reduce fuel use. The operator estimates annual carbon emissions up to 58.7% lower per crane than conventional RTGs; this is an estimate rather than measured fleet performance.",
+      "key_points": [
+        "Equipment supplier: Mitsui E&S.",
+        "The wider programme includes wharf works at Piers 14 and 16, targeted for completion by end-2027."
+      ],
+      "terminal_impact": "Compare hybrid RTG economics with full electrification under local grid and utilisation constraints.",
+      "category": "electrification",
+      "technologies": [
+        "hybrid RTG",
+        "battery energy storage"
+      ],
+      "stakeholders": [
+        "NorthPort",
+        "ICTSI",
+        "Mitsui E&S"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 58,
+      "criticality_rationale": "Four delivered hybrid cranes provide a concrete lower-emission yard upgrade.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-09-18-bauan-hybrid-straddle-carriers",
+      "title": "ICTSI orders 12 hybrid straddle carriers for South Luzon Container Terminal",
+      "published_date": "2026-09-18",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/container-cargo-handling/kalmar-to-supply-ictsi-straddle-carriers/",
+      "source_language": "en",
+      "location": {
+        "terminal": "South Luzon Container Terminal",
+        "port": "Bauan",
+        "city": "Bauan",
+        "country": "Philippines",
+        "country_code": "PH",
+        "lat": 13.774,
+        "lon": 121.005,
+        "precision": "port"
+      },
+      "summary": "ICTSI has ordered 12 Kalmar hybrid straddle carriers for its new South Luzon Container Terminal at Bauan. Delivery is scheduled for Q3 2027. The package includes fleet monitoring and an operator simulator, linking equipment procurement with training before terminal operations.",
+      "key_points": [
+        "Order booked in Q3 2026; delivery planned in Q3 2027.",
+        "MyKalmar INSIGHT and a straddle-carrier simulator are included."
+      ],
+      "terminal_impact": "Include operator readiness and fleet monitoring in equipment procurement plans.",
+      "category": "equipment",
+      "technologies": [
+        "hybrid straddle carrier",
+        "fleet monitoring",
+        "operator simulation"
+      ],
+      "stakeholders": [
+        "ICTSI",
+        "Kalmar"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 58,
+      "criticality_rationale": "A signed equipment order supports a new terminal and includes operational training tools.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.7
+    },
+    {
+      "id": "2026-10-06-tenerife-digital-gate",
+      "title": "Boluda selects TMEIC digital gate software for Tenerife",
+      "published_date": "2026-10-06",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/smart-technologies-and-digitalisation/boluda-selects-tmeic-digital-gate-platform-for-tenerife/",
+      "secondary_sources": [
+        "https://www.tmeic.com/zh-hans/tmeic-pulse-mobile-boluda-shipping/"
+      ],
+      "source_language": "en",
+      "location": {
+        "terminal": "Boluda Maritime Terminals Tenerife",
+        "port": "Santa Cruz de Tenerife",
+        "city": "Santa Cruz de Tenerife",
+        "country": "Spain",
+        "country_code": "ES",
+        "lat": 28.479,
+        "lon": -16.237,
+        "precision": "port"
+      },
+      "summary": "Boluda has selected TMEIC Pulse Mobile for its Tenerife terminal to validate information and resolve issues before trucks arrive. The planned platform connects pre-arrival checks, gate access, yard coordination and departure. It is designed to integrate with existing TOS and port community systems.",
+      "key_points": [
+        "Vendor-agnostic integration with existing terminal platforms.",
+        "Published improvement percentages concern earlier deployments, not measured Tenerife results."
+      ],
+      "terminal_impact": "Assess pre-arrival exception handling and trucking adoption before forecasting gate-time savings.",
+      "category": "digital_ai",
+      "technologies": [
+        "digital gate",
+        "pre-arrival validation",
+        "TOS integration"
+      ],
+      "stakeholders": [
+        "Boluda Shipping",
+        "TMEIC"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 57,
+      "criticality_rationale": "A named terminal has selected a platform addressing the full truck-terminal workflow.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.9
+    },
+    {
+      "id": "2026-10-02-helsingborg-electric-reachstackers",
+      "title": "Helsingborg orders two electric reachstackers under a six-year framework",
+      "published_date": "2026-10-02",
+      "source": "Kalmar",
+      "link": "https://www.kalmarglobal.co.uk/news--insights/press_releases/2026/kalmar-receives-order-for-first-two/",
+      "source_language": "en",
+      "location": {
+        "port": "Helsingborg",
+        "city": "Helsingborg",
+        "country": "Sweden",
+        "country_code": "SE",
+        "lat": 56.031,
+        "lon": 12.691,
+        "precision": "port"
+      },
+      "summary": "Helsingborg has ordered two Kalmar electric reachstackers with fleet monitoring and inspection software. Delivery is scheduled for the end of Q2 2027. The order is the first under a six-year framework covering potential procurement of up to nine zero-emission machines.",
+      "key_points": [
+        "Order booked in Q3 2026.",
+        "MyKalmar INSIGHT and Inspector are included."
+      ],
+      "terminal_impact": "Plan charging and fleet replacement in stages, separating firm orders from framework options.",
+      "category": "electrification",
+      "technologies": [
+        "electric reachstacker",
+        "fleet monitoring",
+        "digital inspection"
+      ],
+      "stakeholders": [
+        "Port of Helsingborg",
+        "Kalmar"
+      ],
+      "status": "contract",
+      "criticality": "major",
+      "score": 56,
+      "criticality_rationale": "A firm order advances staged replacement of diesel handling equipment.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-05-casablanca-portal-slewing-crane",
+      "title": "Marsa Maroc introduces a Liebherr portal slewing crane at Casablanca",
+      "published_date": "2026-10-05",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/container-cargo-handling/liebherr-crane-selected-for-casablanca-port/",
+      "source_language": "en",
+      "location": {
+        "port": "Casablanca",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "country_code": "MA",
+        "lat": 33.608,
+        "lon": -7.613,
+        "precision": "port"
+      },
+      "summary": "Marsa Maroc has selected a Liebherr LPS 550 portal slewing crane for bulk handling at Casablanca. Reported as the first Liebherr portal slewing crane in Africa, the rail-mounted machine combines lifting capability with a compact portal layout. Local technical support will be provided by Liebherr Marocco.",
+      "key_points": [
+        "Equipment: Liebherr LPS 550.",
+        "Application: bulk cargo handling with reduced quay-space requirements."
+      ],
+      "terminal_impact": "Compare portal layouts with mobile cranes where quay space and cargo flows constrain equipment choice.",
+      "category": "equipment",
+      "technologies": [
+        "portal slewing crane",
+        "rail-mounted bulk handling"
+      ],
+      "stakeholders": [
+        "Marsa Maroc",
+        "Liebherr",
+        "Liebherr Marocco"
+      ],
+      "status": "deployment",
+      "criticality": "major",
+      "score": 54,
+      "criticality_rationale": "A regional first introduces a different crane configuration for a major bulk-handling port.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-09-24-greenore-crane-video-safety",
+      "title": "Greenore adds cloud-connected cameras to mobile harbour cranes",
+      "published_date": "2026-09-24",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/equipment/greenore-port-enhances-crane-safety/",
+      "source_language": "en",
+      "location": {
+        "port": "Greenore",
+        "city": "Greenore",
+        "country": "Ireland",
+        "country_code": "IE",
+        "lat": 54.033,
+        "lon": -6.131,
+        "precision": "port"
+      },
+      "summary": "Greenore has fitted Liebherr mobile harbour cranes with a bespoke Camera Telematics system. Live camera views support operators, while recorded footage is available through a cloud platform for incident investigation. The port is using recordings to identify safety improvements.",
+      "key_points": [
+        "Two views combine a jib camera with an operator-view camera.",
+        "Footage supports safety learning and damage investigations."
+      ],
+      "terminal_impact": "Assess crane visibility gaps and define how recorded footage feeds safety learning.",
+      "category": "safety_security",
+      "technologies": [
+        "video telematics",
+        "cloud video",
+        "crane visibility"
+      ],
+      "stakeholders": [
+        "Greenore Port",
+        "Camera Telematics",
+        "Liebherr"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 48,
+      "criticality_rationale": "A deployed camera system addresses operator visibility and incident investigation.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-10-28-szczecin-port-equipment-vr",
+      "title": "Szczecin Maritime University commissions a VR port-equipment simulator",
+      "published_date": "2026-10-28",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/digital/flint-systems-delivers-second-maritime-vr-simulator/",
+      "source_language": "en",
+      "location": {
+        "city": "Szczecin",
+        "country": "Poland",
+        "country_code": "PL",
+        "lat": 53.429,
+        "lon": 14.553,
+        "precision": "city"
+      },
+      "summary": "Flint Systems has commissioned a Perun Experience VR simulator at Szczecin Maritime University. It trains students on ship-to-shore cranes, RTGs and mobile harbour cranes. The installation enables repeated handling exercises without taking operational port machinery out of service.",
+      "key_points": [
+        "Commissioned in the second half of October 2026.",
+        "The simulator covers three types of port machinery."
+      ],
+      "terminal_impact": "Evaluate simulation for operator preparation where equipment access and training safety limit practice.",
+      "category": "digital_ai",
+      "technologies": [
+        "virtual reality",
+        "crane simulation",
+        "operator training"
+      ],
+      "stakeholders": [
+        "Flint Systems",
+        "Maritime University of Szczecin"
+      ],
+      "status": "operational",
+      "criticality": "major",
+      "score": 43,
+      "criticality_rationale": "A commissioned simulator provides a concrete port-equipment training capability.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-10-27-valencia-electrical-substation",
+      "title": "Valencia tenders an €18.7 million substation to expand and secure power supply",
+      "published_date": "2026-10-27",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/green-technology/valencia-tenders-e18-7m-substation-to-double-power-capacity/",
+      "secondary_sources": [
+        "https://www.valenciaport.com/en/valenciaport-makes-progress-on-the-construction-of-the-new-substation-to-strengthen-the-electrification-of-the-port-of-valencia/"
+      ],
+      "source_language": "en",
+      "location": {
+        "port": "Valencia",
+        "city": "Valencia",
+        "country": "Spain",
+        "country_code": "ES",
+        "lat": 39.441,
+        "lon": -0.316,
+        "precision": "port"
+      },
+      "summary": "Valenciaport has launched tendering for an €18.7 million substation with a planned 20-month delivery period. ST2 will support terminal electrification and shore power, alongside ST1. Separate incoming connections are intended to improve resilience for critical loads such as cranes and reefers.",
+      "key_points": [
+        "Shared available capacity is stated at 40–90 MW depending on the incoming connection.",
+        "The project has Connecting Europe Facility support."
+      ],
+      "terminal_impact": "Model concurrent crane, reefer, charging and shore-power demand together with supply redundancy.",
+      "category": "electrification",
+      "technologies": [
+        "electrical substation",
+        "shore power",
+        "grid resilience",
+        "GIS switchgear"
+      ],
+      "stakeholders": [
+        "Port Authority of Valencia",
+        "European Commission"
+      ],
+      "status": "announcement",
+      "criticality": "watch",
+      "score": 39,
+      "criticality_rationale": "An authorised tender advances essential power infrastructure, but construction and operation remain ahead.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-14-singapore-multifuel-bunkering",
+      "title": "Singapore launches ammonia bunkering reference and digital bunkering initiatives",
+      "published_date": "2026-10-14",
+      "source": "Maritime and Port Authority of Singapore",
+      "link": "https://www.mpa.gov.sg/media-centre/details/singapore-strengthens-multi-fuel-bunkering-capabilities-and-digitalisation-at-sibcon-2026",
+      "source_language": "en",
+      "location": {
+        "city": "Singapore",
+        "country": "Singapore",
+        "country_code": "SG",
+        "lat": 1.276,
+        "lon": 103.848,
+        "precision": "global"
+      },
+      "summary": "MPA and Enterprise Singapore have launched ammonia bunkering reference TR 148, with validation work planned with Pilbara Ports. MPA also announced trials to automate bunker data flows from mass flow meters. This multi-initiative item is mapped to MPA headquarters in Singapore.",
+      "key_points": [
+        "TR 148 covers safety, procedures, custody transfer and personnel competence.",
+        "A grant call for digital bunkering Phase 2 trials was announced for November 2026.",
+        "An ethanol bunkering trial at Pasir Panjang was planned for the same week."
+      ],
+      "terminal_impact": "Review ammonia safety procedures and bunker-data interfaces; verify implementation requirements locally.",
+      "category": "alternative_fuels",
+      "technologies": [
+        "ammonia bunkering",
+        "mass flow metering",
+        "digital bunkering"
+      ],
+      "stakeholders": [
+        "MPA",
+        "Enterprise Singapore",
+        "Pilbara Ports Authority",
+        "PSA Singapore"
+      ],
+      "status": "announcement",
+      "criticality": "watch",
+      "score": 39,
+      "criticality_rationale": "The reference and trial initiatives define technical direction without establishing a new mandatory deadline.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-29-tuas-ai-observability",
+      "title": "PSA and Cisco develop AI observability and incident management for Tuas",
+      "published_date": "2026-10-29",
+      "source": "Port Strategy",
+      "link": "https://www.portstrategy.com/news/expansion-development/cisco-and-psa-advance-smart-port-resilience/",
+      "source_language": "en",
+      "location": {
+        "terminal": "Tuas Port",
+        "port": "Singapore",
+        "city": "Singapore",
+        "country": "Singapore",
+        "country_code": "SG",
+        "lat": 1.255,
+        "lon": 103.625,
+        "precision": "port"
+      },
+      "summary": "PSA Singapore and Cisco are developing an AI observability and incident-management proof of concept for Tuas. It will consolidate application, infrastructure and network performance data. Initial implementation at the Phase 2 Living Lab will test faster diagnosis and measures to reduce unplanned outages.",
+      "key_points": [
+        "The project remains a proof of concept.",
+        "Planned functions include dependency mapping, root-cause diagnosis and unusual-traffic detection."
+      ],
+      "terminal_impact": "Map critical TOS dependencies and define recovery metrics before adding AI-based incident tooling.",
+      "category": "digital_ai",
+      "technologies": [
+        "AI observability",
+        "incident management",
+        "infrastructure monitoring"
+      ],
+      "stakeholders": [
+        "PSA Singapore",
+        "Cisco"
+      ],
+      "status": "pilot",
+      "criticality": "watch",
+      "score": 38,
+      "criticality_rationale": "A defined proof of concept addresses terminal resilience, but operational benefits are not yet demonstrated.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.65
+    },
+    {
+      "id": "2026-10-02-valencia-floating-solar-pilot",
+      "title": "Valencia begins testing a 1 MW floating solar demonstrator",
+      "published_date": "2026-10-02",
+      "source": "Port Technology International",
+      "link": "https://www.porttechnology.org/news/green-technology/valenciaport-begins-testing-1mw-floating-solar-system/",
+      "secondary_sources": [
+        "https://www.valenciaport.com/en/spains-first-pre-commercial-offshore-solar-demonstrator-completes-installation-at-the-port-of-valencia-and-enters-its-testing-phase/"
+      ],
+      "source_language": "en",
+      "location": {
+        "port": "Valencia",
+        "city": "Valencia",
+        "country": "Spain",
+        "country_code": "ES",
+        "lat": 39.441,
+        "lon": -0.316,
+        "precision": "port"
+      },
+      "summary": "Valenciaport has completed installation of two 500 kW floating solar platforms and is beginning tests of the 1 MW system. BlueNewables and Naturgy will examine performance, incidents and costs. The demonstrator explores renewable generation without using additional terminal land.",
+      "key_points": [
+        "Two PV-bos platforms: Paiporta and Catarroja.",
+        "The project forms part of RENMARINAS VALENCIAPORT."
+      ],
+      "terminal_impact": "Monitor marine maintenance requirements and delivered energy costs before considering replication.",
+      "category": "electrification",
+      "technologies": [
+        "floating solar",
+        "marine renewable energy"
+      ],
+      "stakeholders": [
+        "Valenciaport",
+        "BlueNewables",
+        "Naturgy"
+      ],
+      "status": "pilot",
+      "criticality": "watch",
+      "score": 37,
+      "criticality_rationale": "A pre-commercial demonstrator has entered testing; commercial performance remains to be established.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.95
+    },
+    {
+      "id": "2026-10-09-klaipeda-private-5g-trial",
+      "title": "Klaipėda completes private 5G trials and a potential port-wide network design",
+      "published_date": "2026-10-09",
+      "source": "Smart Maritime Network",
+      "link": "https://smartmaritimenetwork.com/2026/10/09/klaipeda-port-completes-private-5g-network-trial/",
+      "source_language": "en",
+      "location": {
+        "port": "Klaipėda",
+        "city": "Klaipėda",
+        "country": "Lithuania",
+        "country_code": "LT",
+        "lat": 55.705,
+        "lon": 21.113,
+        "precision": "port"
+      },
+      "summary": "Klaipėda has completed private 5G trials with Santa Monica Networks and LMT Group and reviewed a potential port-wide network design. Demonstrations covered autonomous aerial drones and an uncrewed survey vessel. The work supports investment assessment; permanent rollout has not been confirmed.",
+      "key_points": [
+        "Atlas demonstrated autonomous drone deployment, recovery and recharging.",
+        "LVR Flote presented an Otter hydrographic survey vessel and data-processing tools."
+      ],
+      "terminal_impact": "Separate demonstrated use cases from a funded network rollout when evaluating private 5G.",
+      "category": "connectivity",
+      "technologies": [
+        "private 5G",
+        "autonomous drone",
+        "hydrographic survey data"
+      ],
+      "stakeholders": [
+        "Klaipėda State Seaport Authority",
+        "Santa Monica Networks",
+        "LMT Group",
+        "Atlas",
+        "LVR Flote"
+      ],
+      "status": "pilot",
+      "criticality": "watch",
+      "score": 36,
+      "criticality_rationale": "Trials and network design are complete, but a permanent deployment decision is not established.",
+      "previous_link": null,
+      "thread_id": null,
+      "chaining_rationale": null,
+      "confidence": 0.75
+    }
+  ]
+}

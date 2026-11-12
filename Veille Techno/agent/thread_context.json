@@ -1,0 +1,228 @@
+{
+  "generated_at": "2026-11-09T16:11:53",
+  "instructions": "Known news threads. To extend a thread: copy thread_id and put latest_article.link in previous_link (see SKILL.md section 6).",
+  "threads": [
+    {
+      "thread_id": "thread-2026-11-07-tuticorin-green-methanol-hub",
+      "terminal": null,
+      "port": "V.O. Chidambaranar (Tuticorin)",
+      "country": "India",
+      "country_code": "IN",
+      "category": "alternative_fuels",
+      "technologies": [
+        "bunkering infrastructure",
+        "green methanol bunkering"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-07 [deployment] India prepares commercial launch of its first green methanol bunkering hub"
+      ],
+      "latest_article": {
+        "title": "India prepares commercial launch of its first green methanol bunkering hub",
+        "link": "https://www.theweek.in/news/maritime/2026/11/07/india-first-green-methanol-bunkering-hub-voc-port.html",
+        "date": "2026-11-07",
+        "status": "deployment"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-06-dubai-jebel-ali-autonomous-logistics",
+      "terminal": null,
+      "port": "Jebel Ali",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "category": "automation",
+      "technologies": [
+        "autonomous vehicle",
+        "digital twin",
+        "fleet management",
+        "traffic orchestration"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-06 [pilot] DP World rolls out autonomous logistics at Jebel Ali with the SHIFFT JV"
+      ],
+      "latest_article": {
+        "title": "DP World rolls out autonomous logistics at Jebel Ali with the SHIFFT JV",
+        "link": "https://smartmaritimenetwork.com/2026/11/06/dp-world-to-collaborate-on-autonomous-logistics-systems/",
+        "date": "2026-11-06",
+        "status": "pilot"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-06-honolulu-kapalama-electric-cranes",
+      "terminal": "Kapalama Container Terminal",
+      "port": "Honolulu",
+      "country": "United States",
+      "country_code": "US",
+      "category": "electrification",
+      "technologies": [
+        "autonomous power supply",
+        "electric yard crane"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-06 [deployment] Five all-electric cranes installed at Kapalama Container Terminal"
+      ],
+      "latest_article": {
+        "title": "Five all-electric cranes installed at Kapalama Container Terminal",
+        "link": "https://www.hawaiinewsnow.com/2026/11/06/blessing-held-5-all-electric-cranes-kapalama-container-terminal/",
+        "date": "2026-11-06",
+        "status": "deployment"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-06-london-lr-port-fuels-report",
+      "terminal": null,
+      "port": null,
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "category": "alternative_fuels",
+      "technologies": [
+        "LNG bunkering",
+        "ammonia bunkering",
+        "methanol bunkering"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-06 [study] Alternative-fuel ship orders outpace port readiness"
+      ],
+      "latest_article": {
+        "title": "Alternative-fuel ship orders outpace port readiness",
+        "link": "https://www.marineinsight.com/385-methanol-capable-ships-are-on-order-but-only-25-ports-worldwide-offer-methanol-bunkering-lr-study-says/",
+        "date": "2026-11-06",
+        "status": "study"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-05-manila-hybrid-rtgs",
+      "terminal": "NorthPort",
+      "port": "Manila",
+      "country": "Philippines",
+      "country_code": "PH",
+      "category": "electrification",
+      "technologies": [
+        "battery energy storage",
+        "hybrid rubber-tyred gantry crane (RTG)"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-05 [deployment] NorthPort takes delivery of four hybrid RTGs in Manila"
+      ],
+      "latest_article": {
+        "title": "NorthPort takes delivery of four hybrid RTGs in Manila",
+        "link": "https://www.portstrategy.com/news/container-cargo-handling/northport-adds-four-hybrid-cranes/",
+        "date": "2026-11-05",
+        "status": "deployment"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-05-tokyo-iaph-isps-survey",
+      "terminal": null,
+      "port": null,
+      "country": "Japan",
+      "country_code": "JP",
+      "category": "safety_security",
+      "technologies": [
+        "port security"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-05 [study] IAPH calls for ISPS Code modernisation after global survey"
+      ],
+      "latest_article": {
+        "title": "IAPH calls for ISPS Code modernisation after global survey",
+        "link": "https://allaboutshipping.co.uk/2026/11/05/iaph-leads-port-efforts-to-ensure-the-isps-code-is-fit-for-the-future/",
+        "date": "2026-11-05",
+        "status": "study"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-03-boston-ai-terminals-survey",
+      "terminal": null,
+      "port": null,
+      "country": "United States",
+      "country_code": "US",
+      "category": "digital_ai",
+      "technologies": [
+        "artificial intelligence",
+        "document extraction",
+        "generative AI",
+        "predictive maintenance"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-03 [study] Only 4% of port operators can show financial gains from AI"
+      ],
+      "latest_article": {
+        "title": "Only 4% of port operators can show financial gains from AI",
+        "link": "https://www.freightwaves.com/news/new-survey-finds-ai-rush-isnt-boosting-ports-earnings",
+        "date": "2026-11-03",
+        "status": "study"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-03-london-uk-ports-automation-report",
+      "terminal": null,
+      "port": null,
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "category": "automation",
+      "technologies": [
+        "autonomous terminal tractor",
+        "mixed-mode automation"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-03 [study] Study urges UK ports to move beyond automation pilots"
+      ],
+      "latest_article": {
+        "title": "Study urges UK ports to move beyond automation pilots",
+        "link": "https://zagdaily.com/people/uk-ports-must-move-beyond-automation-trials-to-seize-a-global-opportunity/",
+        "date": "2026-11-03",
+        "status": "study"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-02-bilbao-fueleu-ops-working-group",
+      "terminal": null,
+      "port": "Bilbao",
+      "country": "Spain",
+      "country_code": "ES",
+      "category": "regulation",
+      "technologies": [
+        "onshore power supply (OPS)"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-02 [study] Bilbao delivers the EU report on FuelEU Maritime onshore power supply"
+      ],
+      "latest_article": {
+        "title": "Bilbao delivers the EU report on FuelEU Maritime onshore power supply",
+        "link": "https://dataportuaria.com/en/espa%C3%B1a/environment-and-energy/bilbao-leads-working-group-on-fueleu-maritime-regulation-implementation-ec0d5d",
+        "date": "2026-11-02",
+        "status": "study"
+      }
+    },
+    {
+      "thread_id": "thread-2026-11-02-nador-container-terminal-opening",
+      "terminal": "East Container Terminal",
+      "port": "Nador West Med",
+      "country": "Morocco",
+      "country_code": "MA",
+      "category": "infrastructure",
+      "technologies": [
+        "deep-water container terminal"
+      ],
+      "article_count": 1,
+      "history": [
+        "2026-11-02 [operational] Morocco opens the first container terminal at Nador West Med"
+      ],
+      "latest_article": {
+        "title": "Morocco opens the first container terminal at Nador West Med",
+        "link": "https://www.moroccoworldnews.com/2026/11/344728/nador-west-med-draws-international-media-attention-after-first-terminal-opens",
+        "date": "2026-11-02",
+        "status": "operational"
+      }
+    }
+  ]
+}
